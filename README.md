@@ -42,7 +42,7 @@ Basically you will need to follow the assembly guide released by Prusa and apply
 ![Idler motor](Images/idler-motor.jpg "Idler motor")
 
 ## How does it works?
-Well simply it works in the same way than the MMU3 from @prusa3d but with the possibility of use the double of colors.
+Well, it just works in the same way than the MMU3 from @prusa3d but with the possibility of use the double of colors.
 
 ![Lagartos 20%](Images/lagartos-20percent.jpg "Lagartos 20%")
 ![Lagartos 90%](Images/lagartos_90percent.jpg "Lagartos 90%")
