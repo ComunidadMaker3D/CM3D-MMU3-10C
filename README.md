@@ -16,7 +16,7 @@ The aim of this project is to deliver the posibility to use up to 10 different c
 | 218.5mm smooth rod M5 |        2 |            |           7€ |
 | Nema 17               |        1 |            |          11€ |
 | 685-2rs bearings      |       10 |            |           6€ |
-| 175mm flat shaft M5   |        1 |            |           8€ |
+| 175mm flat shaft M5   |        1 | [3dBoom](https://www.3dboom.es/3dboom/162-ryper-varilla-diametro-mmu10.html)   |           8€ |
 | Rigid coupler 5mm-5mm |        1 |            |         1.5€ |
 | Flex coupler 8mm-5mm  |        1 |            |         1.5€ |
 | Shaft 16mm OD5mm      |       10 |            |           4€ |
